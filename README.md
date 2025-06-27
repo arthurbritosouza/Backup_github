@@ -3,7 +3,7 @@
 <p>
 Este script em Python realiza backups automáticos de projetos armazenados em uma pasta específica e faz o upload para repositórios no GitHub. Ele é ideal para quem deseja automatizar o gerenciamento de backups de código e garantir a segurança dos arquivos.
 </p>
-
+#
 <h2>Funcionalidades</h2>
 <ul>
   <li><strong>Cálculo do tamanho das pastas:</strong> Verifica se o projeto está dentro do limite de 2GB.</li>
